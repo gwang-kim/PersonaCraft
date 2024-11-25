@@ -10,7 +10,7 @@
 
 
 > **PersonaCraft: Personalized Full-Body Image Synthesis for Multiple Identities from Single References Using 3D-Model-Conditioned Diffusion**<br>
-> [Gwanghyun Kim](https://gwang-kim.github.io/)*, [Suh Yoon Jeon](https://www.linkedin.com/in/suhyoonjeon/)*, [Seunggyu Lee](https://www.linkedin.com/in/seunggyu-lee-18163b263/), [Se Young Chun](https://icl.snu.ac.kr/pi) <br>
+> [Gwanghyun Kim](https://gwang-kim.github.io/)\*, [Suh Yoon Jeon](https://www.linkedin.com/in/suhyoonjeon/)*, [Seunggyu Lee](https://www.linkedin.com/in/seunggyu-lee-18163b263/), [Se Young Chun](https://icl.snu.ac.kr/pi) <br>
 > Seoul National University <br>
 > 
 >**Abstract**: <br>
