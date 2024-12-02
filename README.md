@@ -1,6 +1,6 @@
 ## PersonaCraft: Personalized Full-Body Image Synthesis for Multiple Identities from Single References Using 3D-Model-Conditioned Diffusion</sub>
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-red)](https://arxiv.org/abs/XXXX.XXXXX) [![project_page](https://img.shields.io/badge/-project%20page-green)](https://gwang-kim.github.io/persona_craft/)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.18068-red)](https://arxiv.org/abs/2411.18068) [![project_page](https://img.shields.io/badge/-project%20page-green)](https://gwang-kim.github.io/persona_craft/)
 
 
 <p align="center">
@@ -18,3 +18,18 @@ Personalized image generation has been significantly advanced, enabling the crea
 
 # Notice 
 - The code is comming soon!
+
+
+
+# User-Defined Body Shape Control
+<p align="center">
+  <img src="assets/0_udbc.jpg" />
+</p> 
+
+
+
+# PersonaCraft with Style LoRAs 
+<p align="center">
+  <img src="assets/0_style_lora.jpg" />
+</p> 
+
